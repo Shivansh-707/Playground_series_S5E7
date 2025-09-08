@@ -78,7 +78,8 @@ text
 
 ## Contact / Issues
 
-If you encounter any problems or need sample data formats, please open an issue or contact the repository maintainer.
+If you encounter any problems or need sample data formats, please mail on lainnovic11@gmail.com
+Note: The dataset in this repository belongs to Kaggle. It is provided here for reference only. I do not claim ownership of it.”
 
 requirements.txt
 text
